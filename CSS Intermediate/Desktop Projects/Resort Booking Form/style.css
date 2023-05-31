@@ -1,0 +1,31 @@
+form {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+label {
+    cursor: default;
+}
+
+input {
+    width: inherit;
+    padding: inherit;
+    margin: inherit;
+}
+
+.reset-btn {
+    background-color: #EE7474;
+}
+
+.submit-btn {
+    background-color: #62E0F7;
+}
+
+.submit-btn, .reset-btn {
+    width: 45%;
+    border: 0;
+    height: 30px;
+    margin: 2%;
+    color: white;
+}
