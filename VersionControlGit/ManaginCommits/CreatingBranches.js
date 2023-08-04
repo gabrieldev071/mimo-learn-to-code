@@ -1,0 +1,1 @@
+const conteudo = "delete branch using git branch -d name_brranch"
